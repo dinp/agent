@@ -1,0 +1,11 @@
+{
+	"debug": true,
+	"localIp": "",
+	"servers": [
+		"10.1.2.3:1970",
+		"10.1.2.4:1970"
+	],
+	"interval": 5,
+	"timeout": 1000,
+	"docker": "http://127.0.0.1:2375"
+}
